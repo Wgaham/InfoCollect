@@ -8,7 +8,6 @@ public class AppChangeReceiver extends BroadcastReceiver {
 
     @Override
     public void onReceive(Context context, Intent intent) {
-        // TODO: This method is called when the BroadcastReceiver is receiving
         // an Intent broadcast.
         //获取安装程序包名
         if ("android.intent.action.PACKAGE_ADDED".equals(intent.getAction())) {
