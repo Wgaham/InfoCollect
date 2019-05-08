@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">InfoCollect</string>
+    <string name="login">登录</string>
+    <string name="user_id_null">没有找到用户名数据</string>
+    <string name="user_name_init">请输入数字与字母组合形式的用户名</string>
+    <string name="title_activity_login">登录应用</string>
+    <string name="app_name_cn">用户数据收集</string>
+    <string name="user_infoing">用户信息收集中……</string>
+    <string name="information">
+        请使用Home键将应用放置于后台界面，才能正常收集信息。
+        MIUI、EMUI、Flyme等第三方系统用户请将应用置于电池优化白名单之中，否则后台无法长久保持。
+    造成的不便敬请谅解。</string>
+    <!-- Strings related to login -->
+
+</resources>
